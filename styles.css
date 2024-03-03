@@ -1,0 +1,20 @@
+body {
+  background-color: darkslategray;
+}
+
+h1 {
+  transform: scale(2, 1.2);
+  background-color: black;
+  text-align: center;
+  color: aliceblue;
+}
+
+h2 {
+  transform: scale(1.8, 1.2);
+  color: rgb(241, 245, 245);
+  font-style: italic;
+  text-align: center;
+}
+form {
+  color: azure;
+}
